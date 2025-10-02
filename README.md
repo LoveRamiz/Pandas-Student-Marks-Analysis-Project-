@@ -40,10 +40,11 @@ Analyze student marks using the **Pandas** library in Python.
 
 
 
-![pandas](https://github.com/user-attachments/assets/348ccf92-ea6a-4f21-b682-5fd9e72cf5f3)
 
 
 
+
+![pandas](https://github.com/user-attachments/assets/126edf65-e382-4bd1-9ea3-1f5c43560f62)
 
 
 
