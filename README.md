@@ -35,3 +35,24 @@ Analyze student marks using the **Pandas** library in Python.
 [ pip install pandas ]
 
 3. Open the Jupyter NoteBook  and run  the  code cells:   !!!
+
+
+
+
+
+![pandas](https://github.com/user-attachments/assets/348ccf92-ea6a-4f21-b682-5fd9e72cf5f3)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
